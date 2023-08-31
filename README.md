@@ -27,13 +27,15 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=101010)]()
 
 </br>
+
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![PostgreSQL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.g2.com%2Fproducts%2Fpostgresql%2Freviews&psig=AOvVaw3XhfEiYjVcUB68iDAd687X&ust=1693531545372000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjlv-PehYEDFQAAAAAdAAAAABAE)]()
+
 </br>
 Y alguna más...
 
 ##Frameworks:
-[![Sprng Boot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.javaguides.net%2Fp%2Fspring-boot-tutorial.html&psig=AOvVaw0t7ES4k5_0HJDS14uweTWy&ust=1693531239576000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC6pNLdhYEDFQAAAAAdAAAAABAE)]()
+[![Sprng Boot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fweder96%2Fspring-boot-everything-you-need-to-know-and-what-nobody-told-you-o4j&psig=AOvVaw0t7ES4k5_0HJDS14uweTWy&ust=1693531239576000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC6pNLdhYEDFQAAAAAdAAAAABAQ)]()
 
 ## Encuéntrame en:
 
