@@ -29,13 +29,14 @@ En 2018 regreso a mi ciudad natal en Galicia (España), y empiezo a crear conten
 </br>
 
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
-[![PostgreSQL](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitalis.io%2Fpostgresql-services%2F&psig=AOvVaw3XhfEiYjVcUB68iDAd687X&ust=1693531545372000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNjlv-PehYEDFQAAAAAdAAAAABAR)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)]()
 
 </br>
 Y alguna más...
 
 ##Frameworks:
-[![Sprng Boot](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cnblogs.com%2Fxmpy%2Fp%2F16573900.html&psig=AOvVaw153EYuxJH4fD7oZ2nMW2f8&ust=1693531739641000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDR8r_fhYEDFQAAAAAdAAAAABAW)]()
+
+[![Sprng Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)]()
 
 ## Encuéntrame en:
 
