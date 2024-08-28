@@ -1,7 +1,5 @@
 # Hola, mi nombre es Carlos Beltran 👋
-### Desarrollador full-stack engineer
-
-<!--![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
+### Desarrollador full-stack
 
 
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
