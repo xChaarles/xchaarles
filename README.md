@@ -20,7 +20,7 @@ Con conocimientos y manejo de proyectos en las sigueintes tecnologias.
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)]()
 [![TypeScrip](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]()
-[![Static Badge](https://img.shields.io/badge/Cobol-red-007396?style=for-the-badge&logo=Cobol&logoColor=white&labelColor=101010)]()
+[![Static Badge](https://img.shields.io/badge/Cobol-007396?style=for-the-badge&logo=Cobol&logoColor=white&labelColor=101010)]()
 
 </br>
 Y alguna más...
