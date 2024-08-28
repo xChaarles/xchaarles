@@ -7,11 +7,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)-->
 
-Soy ingeniero en TIC - Desarrollador de software desde hace más de 1 año.
-
-A lo largo de mi carrera me ha llamado la atencion el hambito del desarrollo de software y con lo cual me llama mucho la atencion
-la forma en que desde una simple computadora puedes crear miles de herramientas a partir de solo contar con conocimietos de las 
-herraminetras de software para implementarlas en nuestros proyectos.
+Soy ingeniero en TIC - Desarrollador de software con 1 año experencia.
 
 ## Tecnologías:
 
