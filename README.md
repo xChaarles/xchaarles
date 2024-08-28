@@ -9,6 +9,8 @@
 
 Soy ingeniero en TIC - Desarrollador de software con 1 año experencia.
 
+Con conocimientos y manejo de proyectos en las sigueintes tecnologias.
+
 ## Tecnologías:
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
@@ -16,7 +18,7 @@ Soy ingeniero en TIC - Desarrollador de software con 1 año experencia.
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)]()
 [![TypeScrip](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)]()
-[![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white)]()
+[![Cobol](https://img.shields.io/badge/Cobol)]()
 
 </br>
 Y alguna más...
