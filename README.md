@@ -1,10 +1,6 @@
 # Hola, mi nombre es Carlos Beltran 👋
 ### Desarrollador full-stack
 
-
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
-![GitHub Followers](https://img.shields.io/github/stars/mouredev?style=social)-->
-
 Soy ingeniero en TIC - Desarrollador de software con 1 año experencia.
 
 Con conocimientos y manejo de proyectos en las sigueintes tecnologias.
